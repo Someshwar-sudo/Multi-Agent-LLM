@@ -64,19 +64,6 @@ Specialized AI agents work together as a coordinated team, delivering more compr
 
 **Architecture diagram**
 
-User Query
-                      |
-                      ▼
-              Research Assistant
-                      |
-       ┌──────────────┼──────────────┐
-       ▼              ▼              ▼
- Search Agent     Reader Agent    Writer Agent
-       |              |              |
-       └──────────────┼──────────────┘
-                      |
-                      ▼
-                Critic Agent
-                      |
-                      ▼
-              Final Research Report
+<img width="2720" height="2480" alt="multi_agent_research_architecture" src="https://github.com/user-attachments/assets/dd73d5af-84b9-4082-865e-3815e9e764c5" />
+
+  
